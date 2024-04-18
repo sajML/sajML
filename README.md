@@ -4,8 +4,8 @@
 
 📍 **Milan**  
 📧 **Email:** [sajjad.goudarzi.aca@gmail.com](mailto:sajjad.goudarzi.aca@gmail.com)  
-🔗 **LinkedIn:** [sajals](https://www.linkedin.com/in/sajjad-goudarzi-11b269156/)  
-👨‍💻 **GitHub:** [sajal2692](https://github.com/sajML)
+🔗 **LinkedIn:** [sajjad goudarzi](https://www.linkedin.com/in/sajjad-goudarzi-11b269156/)  
+👨‍💻 **GitHub:** [sajML](https://github.com/sajML)
 
 
 ### About Me 🌐
