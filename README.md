@@ -1,16 +1,37 @@
-### Hi there 👋
+# 👋 Hello, I'm Sajjad!
+
+## 🚀 AI/ML Engineer focusing on Data
+
+📍 **Milan**  
+📧 **Email:** [sajjad.goudarzi.aca@gmail.com](mailto:sajjad.goudarzi.aca@gmail.com)  
+🔗 **LinkedIn:** [sajals](https://www.linkedin.com/in/sajjad-goudarzi-11b269156/)  
+👨‍💻 **GitHub:** [sajal2692](https://github.com/sajML)
 
 
-**sajML/sajML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 🌐
+Blending 2+ years in ML, NLP and Software Engineering, I sculpt data & language into experiences. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Professional Highlights 🌟
+- **Software Engineer** - @ NesLab(Polimi) (2023 - mid 2023)
+- **Linux System Admin** - @ Research Institute of Information Technology and Communications of ISFAHAN (2020 - 2021)
+
+
+### Projects 🌟
+- **-------------** - ------------
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, JavaScript, Ruby
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+- **Tools:** AWS, GCP, Docker, Git
+- **Specialties:** LLMs, Generative AI, NLP
+
+### Education 🎓
+- **Masters in IT**, The Polytechnic University of Milan
+- **Bachelors in Computer Science**, Isfahan University of Technology
+
+### Certifications 📜
+- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
+- **Udacity:** NLP, ML, React Nanodegrees
 
