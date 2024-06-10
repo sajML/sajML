@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Sajjad!
+# 👋 Sono Sajjad!
 
-## 🚀 AI/ML Engineer focusing on Data
+## 🚀 Python Developer focusing on Data Engineer
 
 📍 **Milan**  
 📧 **Email:** [sajjad.goudarzi.aca@gmail.com](mailto:sajjad.goudarzi.aca@gmail.com)  
@@ -9,29 +9,37 @@
 
 
 ### About Me 🌐
-Blending 2+ years in ML, NLP and Software Engineering, I sculpt data & language into experiences. 
+2+ years in Software Developing, 
+Almost 1 year in Data Tools : 
 
 
 ### Professional Highlights 🌟
+- **Data Analyst intern** - @ Otovo (nov 2023 - march 2024)
 - **Software Engineer** - @ NesLab(Polimi) (2023 - mid 2023)
-- **Linux System Admin** - @ Research Institute of Information Technology and Communications of ISFAHAN (2020 - 2021)
+- **QT Developer intern** - @ Research Institute of Information Technology and Communications of ISFAHAN (2020 - 2021)
+- **C# Developer and System Administrator** - @ RayanRahjoo(Bootcamp) (summer 2014)
 
 
 ### Projects 🌟
-- **-------------** - ------------
+- **Business Analysis on Yelp Dataset** - ------------
+- **Interactive Dashboard for British Airways Reviews (2023 Dataset)** - ------------
+- **IMDB Movies Exploratory Data Analysis** - ------------
+- **UEs satisfaction analysis in LTE Networks using python libraries: Pandas, Numpy and Sklearn** - ------------
+- **Home Security System with Motion Detection and Wireless Communication using ESP32 and SIM800L** - ------------
+- **Agilent LED Display 7-Segment, 4-Digit PCB Design** - ------------
 
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP
+- **Languages:** Python, C++, JavaScript, 
+- **Frameworks & Libraries:** PyTorch, Langchain, Huggingface, 
+- **Tools:** AWS Glue,AWS MSK , GCP, Docker, Git
+- **Specialties:** Data End to End Pipeline Engineer, Web Backend Developing, ML and NLP
 
 ### Education 🎓
-- **Masters in IT**, The Polytechnic University of Milan
+- **Masters in Telecommunication**, The Polytechnic University of Milan
 - **Bachelors in Computer Science**, Isfahan University of Technology
 
 ### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Udacity:** NLP, ML, React Nanodegrees
+- **Google Data Analytics Professional Certificate**
+- **Supervised Machine Learning: Regression and Classification:** 
 
