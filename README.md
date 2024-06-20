@@ -21,6 +21,8 @@ Almost 1 year in Data Tools :
 
 
 ### Projects 🌟
+- **End-to-end streaming pipeline with Apache Kafka on Amazon MSK using Python** - ------------
+- **Streaming application to process Amazon MSK data using AWS Glue Schema Registry** - ------------
 - **Business Analysis on Yelp Dataset** - ------------
 - **Interactive Dashboard for British Airways Reviews (2023 Dataset)** - ------------
 - **IMDB Movies Exploratory Data Analysis** - ------------
