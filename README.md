@@ -9,7 +9,7 @@
 
 
 ### About Me 🌐
-2+ years in Software Developing, 
+1+ years in Software Developing, 
 Almost 1 year in Data Tools : 
 
 
